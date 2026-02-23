@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#002223",
+            "lang-select-color": "#222829",
+            "bg-light": "#002223",
+            "welcome-bonus-bg": "#002223",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#081010",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00B170",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF8A00",
+            "yellow": "#00B170",
+            "yellow-button": "#FF8A00",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#00B170",
+            "casino-cards": "#002223",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#00B170",
+            "providers-back": "#002223",
+            "faq-label": "#002223",
+            "bg-footer": "#002223",
+            "copyright": "#e7e7d5",
+            "starColor": "#00B170",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3394"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3398",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "LuckyGem Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3399",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "LuckyGem"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "LuckyGem",
+                    "title": "LuckyGem Casino: Welcome Pack up to 700% +700FS, Live Casino & Sports",
+                    "description": "Welcome to LuckyGem: thousands of slots, live dealer tables, and sports betting in one account. Claim a welcome pack up to 700% +700FS, join tournaments and missions, enjoy flexible payments and fast withdrawals. Play responsibly and elevate every session with rewarding entertainment.",
+                    "canonical": "luckygem-casino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3400",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "luckygem-casino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3401"
+                },
+                "hero": {
+                    "title": "LuckyGem Casino — Slots, Live Games, Betting & Bonuses",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3402",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3405",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots and live tables available",
+                        "Welcome pack up to 700% +700FS",
+                        "Weekly tournaments with big prize pools",
+                        "Jackpots and multipliers built for huge wins",
+                        "Instant deposits and fast, clear withdrawals",
+                        "Crypto, cards, e-wallets for easy banking",
+                        "24\/7 support with smooth mobile experience"
+                    ],
+                    "advantagesAfterText": "We bring together exciting gameplay, strong reward mechanics, and a polished experience designed around you. Our platform makes it easy to explore games, join promos, and enjoy seamless banking. We focus on big entertainment value, transparent rules, and rewarding play every day.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Luckygem App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3407",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Luckygem App",
+                    "mobileGooglePlayImageTitle": "Luckygem App",
+                    "mobileIosImageTitle": "Luckygem App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Luckygem",
+                        "description1": "We stand out with a massive game line-up and always-on activities that keep things exciting. We make winning-focused play easy with quick access, clear navigation, and transparent terms.\n",
+                        "items": [
+                            "Up to 700% +700FS.",
+                            "Wins up to €148,000.",
+                            "Cashback up to 20%."
+                        ],
+                        "description2": "Our casino is built for players who want energy, variety, and a real sense of occasion every time they log in. We bring together a huge mix of slots, table games, and live dealer action so you can match your mood to the moment. It’s easy to jump from fast, instant-style titles to immersive live tables when you want that authentic casino atmosphere. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3408",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep the pace high with frequent new releases and a lobby designed to surface trending games and smart recommendations. If you enjoy competition, you’ll love our tournaments and themed races where consistency and strategy can turn play into standout results. We also run missions and in-game tasks that transform regular sessions into a rewarding progression of goals and prizes. Seasonal events add extra excitement with limited-time activities and themed entertainment that keeps the experience fresh. New players get a powerful start with a welcome package and early rewards that help you build momentum quickly. Returning players can rely on ongoing offers, reload-style rewards, and extra perks tied to activity and engagement. We make it fun to explore new mechanics, try different game styles, and join community-wide events that keep the action lively. Dedicated promo areas, mission hubs, and tournament leaderboards keep everything clear and easy to follow. Banking is streamlined so deposits feel effortless and account control stays simple and transparent. Support is built into the experience, with fast help whenever you need it. Our loyalty approach is designed to make progress feel meaningful, unlocking stronger privileges as you play more. For betting fans, we keep casino entertainment and sports action under one account so your excitement stays in one place. Whether you’re on desktop or mobile, the experience stays fast, smooth, and consistent. The result is a single destination where entertainment, bonuses, and a “club-like” vibe come together with clarity and comfort.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Luckygem: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlay & Access Rules: comfort, safety, responsibility\n<\/h3>\n\n<p>\nWe welcome players who value fair play and respectful communication. Access to our casino requires account registration with accurate details. Entry is only available to players who meet the legal age requirement to keep the environment safe. We may ask you to confirm contact details to protect your profile and deliver important updates. For financial operations, identity verification may be requested to safeguard payouts and secure your account. We expect one person to use one account to keep tournaments and bonuses fair. We actively support fair play and do not allow bonus abuse or dishonest behaviour. We keep the community friendly and ask everyone to avoid harassment, threats, or toxic conduct toward others or our support team. We recommend setting personal limits for deposits and play time so gaming stays entertainment. Responsible play tools are available in your settings to help you stay in control. We’re always ready to assist if you feel your play is becoming less controlled. We may review activity to protect the community and maintain service quality.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess & usage conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRegistration: use real details and verify email\/phone to secure your profile\n\n<\/li>\n            <li>• \nAge: adults only, in line with legal requirements\n\n<\/li>\n            <li>• \nVerification: may be required before withdrawals, data changes, or security checks\n\n<\/li>\n            <li>• \nOne account: one profile per person to protect bonus and tournament fairness\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited behaviour\n\n\n<\/h4>\n\n <ul>\n            <li>• \nNo fraud, multi-accounting, or attempts to bypass bonus rules\n\n<\/li>\n            <li>• \nNo abuse, spam, or aggressive behaviour in chat or support requests\n\n<\/li>\n            <li>• \nNo use of third-party payment methods without proper legal rights\n\n<\/li>\n            <li>• \nNo actions that undermine game integrity or sports betting fairness\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible gaming\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSet deposit, stake, and session-time limits in your account tools\n\n<\/li>\n            <li>• \nUse cool-off breaks and self-exclusion if you feel overwhelmed\n\n<\/li>\n            <li>• \nPlay only with funds you can afford for entertainment\n\n<\/li>\n            <li>• \nContact support to activate stronger limits quickly\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Data Protection: trust at every step\n<\/h3>\n\n<p>\nWe operate within an international gaming framework where structure and procedures are built around transparency and security. Our service is run through a registered operating company, with the gaming layer supported by licensing in an international jurisdiction. We follow responsible gaming principles and KYC\/AML processes to protect players and financial activity. For us, security isn’t optional — it’s the foundation of the experience. That’s why we apply standardised controls and ongoing checks across critical parts of the platform.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with architecture: every connection to our platform uses secured protocols designed to prevent traffic interception. We use modern TLS encryption for logins, payments, and any interaction involving personal information. We follow data-minimisation principles, collecting only what’s needed to run your account and meet verification obligations. Access to sensitive data is restricted via role-based controls, and administrative actions are logged for oversight. This approach strengthens resilience against both external and internal risks.\n\n<\/p>\n<br>\n<p>\nEncryption and storage are designed to keep your information protected throughout its lifecycle. Passwords are never stored in plain text, using strong hashing and safeguards against brute-force attempts. Payment details are handled through protected channels and industry-standard methods. We also use protection against suspicious sign-ins, including device checks and behavioural signals. Where available, you can enable additional security settings to tighten control over your profile.\n\n<\/p>\n<br>\n<p>\nOur privacy policy is built on clarity: what we collect, why we use it, and how long it’s retained. We use your data to deliver access, process payments, award bonuses, and prevent fraud. Data sharing is limited to essential partners, such as payment providers and verification services required to complete transactions and checks. We support user requests to access and update information so your account stays accurate. We also use cookies and analytics to improve usability and personalise your experience while respecting privacy expectations.\n\n<\/p>\n<br>\n<p>\nWe place strong focus on financial security and game integrity. Transactions are monitored with risk rules to protect withdrawals from unauthorised activity. Pre-withdrawal checks help ensure funds are paid to the rightful account holder. Game outcomes are powered by reputable provider mechanics, while live games are streamed from controlled studio environments. We keep promo rules transparent and clearly recorded so you always know where you stand. The result is a service where safety, privacy, and trust are built into every action you take.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n24\/7 Customer Support: fast, friendly, focused\n<\/h3>\n\n<p>\nOur support team is here to keep you confident at every step — from sign-up to withdrawals. We’re available around the clock and aim to resolve questions on the first contact whenever possible. Live chat is the fastest option and sits right inside the platform for instant help with games, bonuses, and betting features. Email is ideal when you need to attach documents or want a detailed response in a single thread. Phone support is great for urgent matters and step-by-step guidance when speaking is easier. We communicate clearly and avoid unnecessary jargon. We ask the right questions so you get an accurate solution, not a generic reply. Our team is trained across promos, tournaments, payments, verification, and account tools, so the help you receive is practical and actionable. We treat privacy seriously and confirm identity for account-sensitive requests. Speed matters to us: chat typically responds within minutes, and emails are handled within the support cycle. We also assist with responsible gaming tools and personal limits whenever you want extra control.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: instant help for games, bonuses, bets, and banking\n\n<\/li>\n            <li>• \nEmail: best for documents, case details, and written confirmations\n\n<\/li>\n            <li>• \nPhone: quick guidance for urgent questions and clear walkthroughs\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–3 minutes to first reply, then real-time conversation\n\n<\/li>\n            <li>• \nEmail: commonly 2–12 hours depending on complexity\n\n<\/li>\n            <li>• \nPhone: fast connection and guided support when speed matters\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrimary service and interface in English\n\n<\/li>\n            <li>• \nAdditional languages may be available depending on the shift team\n\n<\/li>\n            <li>• \nFor complex cases, we provide structured steps so everything stays clear\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Luckygem",
+                        "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyGem VIP Loyalty: level up your status, unlock more rewards\n<\/h3>\n<p>\nOur loyalty programme is built so every wager moves you closer to stronger privileges. We reward consistent play with real benefits like tailored bonuses, higher limits, and priority service. Joining is seamless — once you register, you automatically start earning points through slots, live games, and table play. The more active you are, the faster your status grows, and the more personalised your rewards become. We keep it clear: you can track progress, current tier, and upcoming perks right in your account area. Slot fans can benefit from boosted earning opportunities and special promo rewards to accelerate progression. Live casino players receive tailored offers that match the premium feel of dealer tables. We also recognise activity across tournaments and missions, adding extra value for participation. Higher tiers introduce VIP-style comfort, including a dedicated manager and more flexible limit settings. Your VIP level can also help you get faster support handling for account needs. Regular rewards like cashback, reload-style bonuses, and exclusive free spins become stronger as you rise. Our aim is simple: every session should feel more rewarding than the last.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration & access conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccount sign-up: loyalty access activates automatically after registration\n\n<\/li>\n            <li>• \nVerification: recommended early to unlock full VIP privileges smoothly\n\n<\/li>\n            <li>• \nPoint earning: awarded for real-money wagers and eligible activity participation\n\n<\/li>\n            <li>• \nTransparent progress: tier and status are always visible in your profile\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers & how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nQuartz: entry tier after registration and first wagers\n\n<\/li>\n            <li>• \nTopaz: earn 1,000 VIP points to unlock stronger reload rewards\n\n<\/li>\n            <li>• \nSapphire: earn 5,000 VIP points for boosted free spins and missions\n\n<\/li>\n            <li>• \nRuby: earn 15,000 VIP points for higher cashback and priority handling\n\n<\/li>\n\t    <li>• \nEmerald: earn 40,000 VIP points for personalised offers and flexible limits\n\n<\/li>\n\t    <li>• \nDiamond: earn 100,000 VIP points for top privileges and premium service\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards & perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback up to 20%: returns part of losses for the period, credited to balance\n\n<\/li>\n            <li>• \nRakeback up to 15%: extra rewards tied to eligible gameplay activity\n\n<\/li>\n            <li>• \nWeekly reload up to 50%: deposit bonus to keep your momentum going\n\n<\/li>\n            <li>• \nExclusive free spins up to 200 FS\/week: granted on featured slots by tier\n\n<\/li>\n\t    <li>• \nBirthday gift up to €100: a VIP treat based on your level\n\n<\/li>\n\t    <li>• \nHigher withdrawal limits: more flexible limits as your status rises\n\n<\/li>\n\t    <li>• \nPersonal VIP manager (Diamond): tailored offers and ongoing support\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyGem Bonuses & Promos: more games, more wins, more events\n<\/h3>\n\n<p>\nWe keep the experience rewarding so you always have a reason to jump in and get extra value from play. To start strong, we offer a powerful welcome package that boosts early deposits and adds free spins to build momentum. Sports fans can claim a dedicated welcome offer designed to energise both pre-match and live betting. We run frequent tournament events where prizes are awarded through leaderboards and consistent play can push you up the ranks. Missions and tasks turn regular sessions into a rewarding sequence of goals and prizes. Themed weeks and seasonal events keep the lobby feeling fresh and exciting. Active players can access reload-style offers that support steady play and encourage exploring new titles. We also surprise you with extra free spins on featured slots and “happy hour” style boosts that raise the reward intensity. Jackpot-focused activity supports the hunt for big results through progressive titles and special win-driven events. If you like playing with friends, referral promos let you both benefit from shared activity. Challenges and draws reward consistency and completion, not just luck. Promo rules stay clear, with timelines, requirements, and eligible games easy to find. Our offers are built to enhance enjoyment and help you manage your bankroll comfortably. Many promos combine with tournaments so you can earn rewards from multiple angles at once. Most importantly, promotions are refreshed regularly so opportunities stay new and engaging.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey bonuses & offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome package up to 700% + 700 FS: boosts early deposits plus spins on featured slots\n\n<\/li>\n            <li>• \nSports welcome package up to 300% up to €1,200: bonus funds for selected betting markets\n\n<\/li>\n            <li>• \nSlot tournaments: leaderboard prize pools, example rewards — up to €5,000 for top places\n\n<\/li>\n            <li>• \nMultiplier races: prizes for strong streaks and high x-multipliers, example — bonus up to €500\n\n<\/li>\n\t    <li>• \nMissions & tasks: rewards for completing goals, example — 25–100 FS per milestone set\n\n<\/li>\n\t    <li>• \nReload bonuses: recurring deposit offers, example — up to 50% on promo-day deposits\n\n<\/li>\n\t    <li>• \nCashback promos up to 20%: returns a portion of losses based on period and categories\n\n<\/li>\n\t    <li>• \nJackpot events: big-win potential in progressive slots, example recorded wins — up to €148,000\n\n<\/li>\n\t    <li>• \nLive casino flash events: themed tables and seasonal formats, example — bonus up to €200 for activity\n\n<\/li>\n\t    <li>• \nReferral programme up to €1,000: rewards for invites and friend activity milestones\n\n<\/li>\n\t    <li>• \nHappy hours: limited-time boosts and FS drops, example — +50 FS for participating\n\n<\/li>\n\t    <li>• \nGiveaway promos: periodic draws for active players, example — prizes up to €1,000 in promo windows\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyGem Games & Betting: slots, live casino, and sports action\n<\/h3>\n\n<p>\nWe’ve built a rich entertainment ecosystem so you can pick the style of excitement that fits your moment. Our lobby features a massive slot library, from classic favourites to modern hits with bonus rounds and feature-buy options. For a real casino feel, we deliver live dealer tables where pace, emotion, and immersion take centre stage. Table games include popular roulette, blackjack, and baccarat variants, along with additional formats for variety. If you prefer rapid decisions, instant-style titles and fast mechanics deliver quick rounds in seconds. Jackpot play is available for those chasing big headline moments and standout wins. For betting fans, we combine casino and sports under one account so switching between play styles is effortless. Our sportsbook supports pre-match and live betting with popular markets across major sports and esports. Navigation stays simple with categories, filters, and search tools that help you find what you want fast. Built-in features let you track bet slips, history, and odds movement with confidence. With frequent lobby updates, you always see what’s trending across games, events, and betting highlights.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame & betting categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: bonus features, megaways, hold-and-win, feature buys, jackpots\n\n<\/li>\n            <li>• \nLive casino: roulette, blackjack, baccarat, game shows, and extra live formats\n\n<\/li>\n            <li>• \nRNG table games: classic and extended roulette and card-game variants\n\n<\/li>\n            <li>• \nInstant\/Crash: fast rounds, high tempo, simple rules\n\n<\/li>\n\t    <li>• \nJackpot games: progressive pools and big-payout events\n\n<\/li>\n\t    <li>• \nSportsbook: pre-match, live, main and extra markets, accumulators and systems\n\n<\/li>\n\t    <li>• \nEsports: popular titles with live momentum for fast-action fans\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyGem Betting Limits: minimum and maximum stakes\n<\/h3>\n\n<p> \nWe keep staking flexible so both new and experienced players feel comfortable. Minimum values let you start with a controlled bankroll, while maximum limits give room for bigger strategy-driven play. Ranges vary by category — slots, live tables, and sports betting each have their own typical limits. Below are practical benchmarks across popular options to help you choose quickly.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #00B170;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (per spin)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots (per spin)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>RNG roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>RNG blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n\n\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live game shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash \/ Instant<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports betting (pre-match)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports betting (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyGem Withdrawals: methods, payout speed, and limits\n<\/h3>\n\n<p>\nWe’ve designed withdrawals to be clear and convenient so you can access your winnings smoothly. In your account area, you select a method, enter an amount, and follow straightforward processing steps. To protect payouts, we may request identity verification, helping secure your account and confirm rightful ownership. We support popular payment options including cards, e-wallets, and cryptocurrencies so you can choose what suits you best. Payout speed depends on the method: crypto transfers are often quicker, while banking tools can take extra time on the payment provider side. We run internal checks to prevent errors and ensure accurate delivery. In certain cases, a security confirmation window may apply to protect funds from unauthorised activity. Transparency matters: you can track request status and full transaction history in your profile. Withdrawal limits help manage flows and keep service operations stable. As your status grows through our privilege system, you can unlock more flexible terms and higher limits. Using the same method for deposits and withdrawals can help streamline approvals and speed up processing. The result is a fast, protected, and user-friendly payout journey.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: familiar payouts to a common payment tool\n\n<\/li>\n            <li>• \nE-wallets: fast handling with clean transaction history\n\n<\/li>\n            <li>• \nCryptocurrencies: modern payouts with strong processing speed\n\n<\/li>\n            <li>• \nAdditional methods: available based on currency choice and account settings\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed & processing timeframes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInternal processing: typically minutes up to 24 hours\n\n<\/li>\n            <li>• \nSecurity confirmation window: may take up to 48 hours in specific cases\n\n<\/li>\n            <li>• \nPayment-provider settlement: varies by method, up to 2 banking days\n\n<\/li>\n            <li>• \nCrypto payouts: often faster due to network confirmations\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>• \nDaily limit: up to €3,000\n\n<\/li>\n            <li>• \nWeekly limit: up to €7,500\n\n<\/li>\n            <li>• \nMonthly limit: up to €15,000\n\n<\/li>\n            <li>• \nHigher limits: available at elevated privilege tiers with active play\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play for free in demo mode?",
+                            "answer": "Yes. Many games offer a try-out mode so you can learn mechanics and pick favourites before wagering real stakes.\n\n\n"
+                        },
+                        {
+                            "title": "How are free spins credited and where do I find them?",
+                            "answer": "Free spins are credited under the promo terms and appear in your account bonus area with expiry time and eligible game details.\n\n\n"
+                        },
+                        {
+                            "title": "Is there a limit to how many bonuses I can use at once?",
+                            "answer": "Typically, one main deposit bonus can be active at a time to keep terms clear, while other offers become available in sequence under promo rules.\n\n\n"
+                        },
+                        {
+                            "title": "How do I enable limits and play-control tools?",
+                            "answer": "Your account settings include deposit and time limits, plus cool-off and self-exclusion options so you can choose your preferred control level.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
